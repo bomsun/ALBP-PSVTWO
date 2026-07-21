@@ -1,1 +1,5 @@
+This folder includes the data and results for the real-world case study.
+
+"case study dataset" includes three sheets, each sheet for one OS ratio. Column "Unique Predecessors" and "Zone Incompatible Tasks" show the predecessors and zone-incompatible tasks per task, splitted by comma. Column "Mod" refers to the product variant. "Resource Option 1", "Resource Option 2", "Resource Option 3" show the three worker options per task. If some tasks don't have second or third worker options, the cells will be blank. The cells are formatted in this way: "X_a,Y_b,...: d" means this worker option requires a X-type workers, b Y-type workers,... to collaborate, and duration is d min.
+
 
