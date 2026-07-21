@@ -4,6 +4,6 @@ This folder includes the data and results for the real-world case study.
 
 Folder "Comp with Simpler" contains the results comparing the ALBP-PSVTWO with other simpler models, to validate the benefits of integrating parallel stations and variable task-worker options.
 
-Folder "Max Workers" includes the results for experiments on varying the maximum number of workers per station.
+Folder "Max Workers" includes the results for experiments on varying the maximum number of workers per station. Note that the default number of workers per station is 4, and the results are in the "Comp with Simpler".
 
 Folder "Station Cost" has the results for sensitivity-analysis on the station cost rate.
