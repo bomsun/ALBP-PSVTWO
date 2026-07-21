@@ -1,1 +1,5 @@
+This folder contains the data and results for experiments comparing with other methods. The purpose is to present the efficiency of the LBBDA method.
 
+We test our proposed LBBDA over instances from Michels 2019. (A benders’ decomposition algorithm with combinatorial cuts for the multi-manned assembly line balancing problem. European Journal of Operational Research, 278 (3), 796–808). This is the simple multi-manned ALBP where workers are homogeneous and each task requires exactly one worker to execute, without zone-incompatible tasks.
+
+The filenames are structured as: "filename_cycle_maxworkers" where maxworkers refers to the max number of workers per station.
